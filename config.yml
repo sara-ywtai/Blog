@@ -18,7 +18,7 @@ disqus:
     shortname: https-saratai-github-io
     count: true
 
-googleAnalytics: G-4XFDM5X0D8
+googleAnalytics: G-XQBSE3JF2H
 
 minify:
   disableXML: true
