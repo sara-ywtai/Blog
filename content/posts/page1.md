@@ -1,24 +1,20 @@
 ---
-title: "My 1st post"
-date: 2026-08-27T11:52:03+08:00
+title: "免費IFRS S1 S2 學習資源分享與心得"
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
@@ -49,4 +45,4 @@ editPost:
 
 推薦前三個模組給關注永續領域的夥伴們！
 
- 免費線上學習模組連結：https://lnkd.in/gt-w_D-A
+ 免費線上學習模組連結：https://www.ifrs.org/sustainability/knowledge-hub/courses/
